@@ -170,7 +170,7 @@ Output
 ![](attachments/view_admin2.png)
 
 
-**Step 4: both admins are active now****. Admin1 change admin2’s role to user
+**Step 4: both admins are active now**. Admin1 change admin2’s role to user
 
 ![](attachments/admin1_change_admin2role.png)
 
