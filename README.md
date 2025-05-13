@@ -195,3 +195,6 @@ On session of admin2
 **Step 7: now admin 2 is user can disable admin1**
 
 ![](attachments/admin2_disable_admin1.png)
+
+## Video
+![](attachments/passbolt_2.gif)
